@@ -1,5 +1,7 @@
 # Roll Rumble - Online Multiplayer Game
 
+![menu and game](./img/menu_and_game.png)
+
 Developed as part of "Information Processing" course at Imperial College London
 together with Orlan Forshaw, Petr Olšan, Morgan Pressman, Ryan Voecks, and Noam Weitzman.
 
@@ -24,8 +26,6 @@ different replays simultaneously thanks to multithreading on the server.
 
 The entire system, across the client, server, and FPGA, is optimized for low latency and reliability, to
 ensure a smooth and responsive gameplay experience.
-
-![menu and game](./img/menu_and_game.png)
 
 ## System architecture
 
